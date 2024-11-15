@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ### 4. Ejecutar el Notebook
 
 Asegurarse de que winequality_BDS.csv esté en la misma carpeta del proyecto antes de ejecutar el Notebook.
-Abre el archivo TPesp.ipynb en Jupyter Notebook o Jupyter Lab para ejecutar el código.
+Abre el archivo TPesp.ipynb en Jupyter Notebook o Jupyter Lab para ejecutar el código, con el ambiente a la par.
 Activar el ambiente creado (tpeamb) donde están todas las dependencias. 
 
 Este proyecto incluye código en Python para el preprocesamiento de datos y la reducción de dimensionalidad. 
