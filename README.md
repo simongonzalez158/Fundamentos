@@ -19,7 +19,7 @@ Este proyecto contiene el Trabajo Práctico Especial (TPE) de la materia **Funda
 Clona el repositorio desde GitHub a tu máquina local. Abre la terminal y ejecuta:
 
 ```bash
-git clone https://github.com/simongonzalez158/Fundamentos-de-la-Ciencia-de-Datos.git
+git clone https://github.com/simongonzalez158/Fundamentos
 cd Fundamentos-de-la-Ciencia-de-Datos
 
 Crear y activar el ambiente virtual: 
