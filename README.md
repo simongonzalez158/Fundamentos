@@ -45,7 +45,7 @@ Una vez activado el ambiente virtual, instala las dependencias necesarias con:
 ```bash
 pip install -r requirements.txt
 ```
-4. Ejecutar el Notebook
+### 4. Ejecutar el Notebook
 
 Asegurarse de que winequality_BDS.csv esté en la misma carpeta del proyecto antes de ejecutar el Notebook.
 Abre el archivo TPesp.ipynb en Jupyter Notebook o Jupyter Lab para ejecutar el código paso a paso.
