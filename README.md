@@ -20,7 +20,11 @@ Clona el repositorio desde GitHub a tu máquina local. Abre la terminal y ejecut
 
 ```bash
 git clone https://github.com/simongonzalez158/Fundamentos
+```
+```bash
 cd Fundamentos
+```
+```bash
 git checkout master
 ```
 ### 2. Crear y activar el ambiente virtual: 
