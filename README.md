@@ -20,7 +20,8 @@ Clona el repositorio desde GitHub a tu máquina local. Abre la terminal y ejecut
 
 ```bash
 git clone https://github.com/simongonzalez158/Fundamentos
-cd Fundamentos-de-la-Ciencia-de-Datos
+cd Fundamentos
+git checkout master
 
 Crear y activar el ambiente virtual: 
 
