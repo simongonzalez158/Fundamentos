@@ -34,12 +34,18 @@ En Windows:
 
 ```bash
 python -m venv tpeamb
+```
+
+```bash
 tpeamb\Scripts\activate
 ```
 En macOS y Linux:
 
 ```bash
 python3 -m venv tpeamb
+```
+
+```bash
 source tpeamb/bin/activate
 ```
 ### 3. Instalar las dependencias
