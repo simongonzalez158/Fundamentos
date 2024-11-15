@@ -7,7 +7,7 @@ Este proyecto contiene el Trabajo Práctico Especial (TPE) de la materia **Funda
 - `TPesp.ipynb`: Código principal en Python.
 - `tpeamb`: Ambiente virtual (no incluido en GitHub, pero puede ser creado con `requirements.txt`).
 - `requirements.txt`: Dependencias necesarias para el proyecto.
-- `data.csv`: Archivo de datos necesario para el análisis.
+- `winequality_BDS.csv`: Archivo de datos necesario para el análisis.
 - `informe.pdf`: Informe detallado con los resultados y análisis.
 
 
